@@ -1,0 +1,34 @@
+.item{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid #8a062f;
+    padding-bottom: 1rem;
+}
+.price{
+    font-weight: bold;
+    color: #8a062f;
+}
+.amount{
+    border: 1px solid black;
+    padding:0 0.4rem;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 0 1.7rem;
+}
+
+.btn button{
+    border: 1px solid #8a062f;
+    background: white;
+    color: #8a062f;
+    margin: 0 0.3rem;
+    padding:0 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.btn button:hover{
+   background-color:#8a062f ;
+   color:white;
+}

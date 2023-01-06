@@ -1,0 +1,14 @@
+.label{
+    font-size: large;
+    font-weight: bold;
+}
+.input{
+    margin-right: 1.10rem;
+    margin-left: 00.40rem;
+    width: 3rem;
+    height:2rem;
+    font-weight: bold;
+    font-size: medium;
+    border-radius: 5px;
+    border: 1px solid;
+}
